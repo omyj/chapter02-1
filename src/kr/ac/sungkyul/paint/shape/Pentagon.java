@@ -1,4 +1,6 @@
-package paint;
+package kr.ac.sungkyul.paint.shape;
+
+import kr.ac.sungkyul.paint.i.Drawable;
 
 public class Pentagon extends Shape implements Drawable {
 

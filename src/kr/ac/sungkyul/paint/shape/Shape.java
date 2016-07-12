@@ -1,4 +1,4 @@
-package paint;
+package kr.ac.sungkyul.paint.shape;
 
 public abstract class Shape {
 	private String lineColor;

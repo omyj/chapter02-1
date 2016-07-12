@@ -1,4 +1,12 @@
-package paint;
+package kr.ac.sungkyul.paint.app;
+
+import kr.ac.sungkyul.paint.i.Drawable;
+import kr.ac.sungkyul.paint.point.ColorPoint;
+import kr.ac.sungkyul.paint.point.Point;
+import kr.ac.sungkyul.paint.shape.Circle;
+import kr.ac.sungkyul.paint.shape.Pentagon;
+import kr.ac.sungkyul.paint.shape.Rectangle;
+import kr.ac.sungkyul.paint.shape.Triangle;
 
 public class PaintApp {
 

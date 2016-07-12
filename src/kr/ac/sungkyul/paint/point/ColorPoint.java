@@ -1,4 +1,4 @@
-package paint;
+package kr.ac.sungkyul.paint.point;
 
 public class ColorPoint extends Point {
 	private String color;
